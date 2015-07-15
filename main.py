@@ -26,7 +26,7 @@ def writeData():
 if __name__ == '__main__':
 	
 	setRecvHandler( onReciveData )
-	setWriteHandler( writeData )
+	# setWriteHandler( writeData )
 
 	mainloop = GObject.MainLoop()
 	mainloop.run()
