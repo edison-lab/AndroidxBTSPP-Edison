@@ -5,4 +5,4 @@ http://edison-lab.jp/blog/2015/07/lets-make-edison-android-spp.html
  
 
 ####Overview  
-・Bluetooth SPPを用いてAndroidアプリケーションからデータを受信するpythonスクリプトです
+・Bluetooth SPPを用いてAndroidアプリケーションからデータを受信するEdisonのpythonスクリプトです
